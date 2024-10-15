@@ -19,6 +19,17 @@
     justify-content: center;
     align-items: center;
 }
+.back{
+    background-image: url('/assets/fullstackdeveloper-background.jpg'); /* Replace with your image path */
+    background-size: cover;   /* Ensure the image covers the entire div */
+    background-position: center center;  /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the background from repeating */
+    height: 100vh; /* Set the height of the div to full viewport height */
+    display: flex;
+    align-items: center;  /* Vertically center the content */
+    justify-content: center; /* Horizontally center the content */
+    padding: 20px;
+}
 
 .text-left-container {
     display: flex;
@@ -33,16 +44,16 @@
 }
 
 .home-title {
-    font-size: 5rem;
+    font-size: 3rem;
     color: #e0f0ff;
-    margin-bottom: 5rem;
-    line-height: 5rem;
+    margin-bottom: 0rem;
+    line-height: 4rem;
 }
 
 .home-author {
-    font-size: 3.5rem;
+    font-size: 1.5rem;
     color: #b0caf063;
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
 }
 
 #dynamic-text {
