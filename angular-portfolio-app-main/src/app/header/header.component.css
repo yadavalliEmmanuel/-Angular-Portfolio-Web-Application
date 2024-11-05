@@ -1,5 +1,5 @@
 .navbar {
-    background-color:#139465;
+    background-color:#7431f9;
 }
 
 .navbar .container {
@@ -11,7 +11,7 @@
 .navbar-brand {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    color: #f8f9fa;
+    color: rgb(233 222 254);
 }
 
 .nav-link {

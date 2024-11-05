@@ -346,7 +346,7 @@ export class PortfolioComponent {
       description: 'This project is a fully functional e-commerce platform where users can browse through product categories, view product details, add items to their shopping cart, and complete a purchase using Stripe for secure payments. The backend is developed using Node.js with Express, MongoDB is used to store product and user information, and React is used for the frontend. JWT authentication ensures secure access for users and administrators. Admins can add new products, edit existing ones, and manage user orders. Deployed using Heroku and MongoDB Atlas.',
       projectLink: 'https://github.com/yadavalliEmmanuel/ecommerce-platform',
       tags: [Tag.REACT,  Tag.ANGULAR  ,Tag.NODEJS, Tag.EXPRESS, Tag.MONGODB, Tag.JWT, Tag.STRIPE, Tag.HEROKU],
-      pictures: ["../../assets/ecommerce_01.PNG", "../../assets/ecommerce_01.PNG"]
+      pictures: ["../../assets/e-com.PNG", "../../assets/ecom02.PNG"]
     },
     {
       id: 2,
@@ -394,7 +394,7 @@ export class PortfolioComponent {
       description: 'This task management app allows users to create, update, and delete tasks. Users can categorize tasks and set deadlines, which helps in prioritizing work. Built with React for the frontend, Node.js and Express for the backend, and MongoDB for data storage. Authentication ensures that users can only access their tasks.',
       projectLink: 'https://github.com/yadavalliEmmanuel/task-manager',
       tags: [Tag.REACT, Tag.NODEJS, Tag.EXPRESS, Tag.MONGODB, Tag.JWT],
-      pictures: ["../../assets/task_manager_01.png", "../../assets/task_manager_02.png"]
+      pictures: ["../../assets/task-mangement.PNG", "../../assets/task_manager_02.png"]
     },
     {
       id: 7,
